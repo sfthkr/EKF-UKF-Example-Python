@@ -1,3 +1,3 @@
-# Python Notebook Kalman-Particle Filters
+# Example comparison for EKF and UKF
 
 Explanations coming soon...
